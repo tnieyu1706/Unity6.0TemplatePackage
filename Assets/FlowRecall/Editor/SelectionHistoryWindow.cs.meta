@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9431e965a9ea6134f8ebb5cc7bf1dde9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315978
+  packageName: FlowRecall - Selection History
+  packageVersion: 1.1
+  assetPath: Assets/FlowRecall/Editor/SelectionHistoryWindow.cs
+  uploadId: 760045
