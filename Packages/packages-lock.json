@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "com.github-glitchenzo.nugetforunity": {
+      "version": "4.5.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.gustavopsantos.reflex": {
+      "version": "https://github.com/tnieyu1706/Reflex.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bab4d270212c6b3496a2ca458fb9bcd3acdd3ec7"
+    },
+    "com.kylewbanks.scenerefattribute": {
+      "version": "0.13.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.11",
       "depth": 0,
@@ -90,6 +111,13 @@
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.5",
       "depth": 3,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.2",
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -203,6 +231,15 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.v0lt.editor-attributes": {
+      "version": "https://github.com/v0lt13/EditorAttributes.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.2"
+      },
+      "hash": "ffe49a11cabdb7295597ca4b136cb54d17eef6fa"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
